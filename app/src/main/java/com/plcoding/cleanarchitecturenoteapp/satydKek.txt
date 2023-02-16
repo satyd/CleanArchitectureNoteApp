@@ -1,0 +1,15 @@
+Your public key has been saved in satyd_key.pub
+The key fingerprint is:
+SHA256:idjfDCFJJNuosuS+sr8lEQ9JH57lmSkYz5hKvPs+T1c satyd@mail.ru
+The key's randomart image is:
++---[RSA 4096]----+
+|  o o.+          |
+|.. @ @ =         |
+| oB X O .        |
+|...= + o o       |
+|ooo o o SE       |
+|oo..   ..+       |
+|.o. .. .. o      |
+|o .+. .          |
+|o==+o.           |
++----[SHA256]-----+
